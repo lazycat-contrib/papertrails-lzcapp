@@ -1,0 +1,8 @@
+application:
+  subdomain: papertrails
+  routes:
+    - /=file:///lzcapp/pkg/content
+
+usage: |
+  Papertrails 是一个探索无尽纸世界的网页小游戏：一位纸片旅行者
+  穿越不断展开的立体书世界。打开应用即可游玩，无需配置。
