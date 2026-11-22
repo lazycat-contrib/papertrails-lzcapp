@@ -1,5 +1,5 @@
 package: community.lazycat.app.papertrails
-version: 0.1.0
+version: 0.1.1
 name: Papertrails
 description: "A paper traveller walks across an endless pop-up book world. Explore the endless paper world. MIT."
 homepage: https://github.com/xikhar/papertrails
@@ -8,8 +8,8 @@ license: MIT
 min_os_version: 1.5.0
 locales:
   zh:
-    name: "Papertrails 纸间旅途"
-    description: "纸片旅行者穿越无尽立体书世界的小游戏，打开即玩。MIT。"
+    name: "纸间旅途"
+    description: "Papertrails：纸片旅行者穿越无尽立体书世界的小游戏，打开即玩。MIT。"
   en:
     name: "Papertrails"
     description: "A paper traveller walks across an endless pop-up book world. MIT."

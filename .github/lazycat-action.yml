@@ -25,5 +25,5 @@ stores:
   private:
     enabled: true
     skip_if_version_exists: true
-    name: Papertrails
-    summary: "纸片旅行者穿越无尽立体书世界的网页小游戏。"
+    name: 纸间旅途
+    summary: "Papertrails：纸片旅行者穿越无尽立体书世界的网页小游戏，打开即玩。"
