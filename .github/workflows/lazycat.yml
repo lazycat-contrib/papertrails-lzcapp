@@ -20,6 +20,7 @@ jobs:
       versioned-release-asset: true
       toolchains: node
       node-version: 22.x
+      node-package-manager: yarn
     secrets:
       GH_REPO_TOKEN: ${{ secrets.GH_REPO_TOKEN }}
       LZC_API_HOST: ${{ secrets.LZC_API_HOST }}
